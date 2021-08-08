@@ -4176,4 +4176,4 @@ class Core(commands.commands._RuleDropper, commands.Cog, CoreLogic):
         msg = _("Currently ignored categories: {categories}\nChannels: {channels}").format(
             categories=cat_str, channels=chan_str
         )
-        return msg need a link which contains a thank you to other projects which we use at some point.
+        return msg
